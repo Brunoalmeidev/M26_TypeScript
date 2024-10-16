@@ -29,3 +29,6 @@ dadosDaApi = 10
 dadosDaApi = true
 dadosDaApi = [1,2,3]
 dadosDaApi = 'string'
+
+// 
+let curso = 'front-end'
